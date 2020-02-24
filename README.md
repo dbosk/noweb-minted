@@ -25,7 +25,3 @@ Use noweb as usual, but now with the ```noweb-minted``` filter. For instance, to
 ```
 
 The output should be the same as in ```sample.pdf```.
-
-
-
-
